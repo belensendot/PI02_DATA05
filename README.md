@@ -1,6 +1,3 @@
-# PI02_DATA05
-Segundo Proyecto Individual - Machine Learning 
-
 # <h1 align="center">**`PI02_DATA05`**
 # <h1 align="center">**`Segundo Proyecto Individual - Machine Learning `**
 # <h1 align="center">**`María Belén Sendot`**
